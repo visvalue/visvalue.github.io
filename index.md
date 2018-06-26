@@ -1,6 +1,6 @@
 ## Description
 
-(images/ice-t.jpg =200x)
+![](./images/ice-t.jpg =200x)
 Evaluating visualizations is a complex task. We have developed a methodology for a heuristic-based methodology to help researchers, designers, and practitioners determine the _value_ of visualizations.
 
 This site contains links to the research papers describing the methodology, supplemental material about the study, and materials available for download so that others can use the methodology.
