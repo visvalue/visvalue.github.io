@@ -1,4 +1,4 @@
-## Value of Visualization Evaluation Methodology
+## Description
 
 Evaluating visualizations is a complex task. We have developed a methodology for a heuristic-based methodology to help researchers, designers, and practitioners determine the _value_ of visualizations.
 
