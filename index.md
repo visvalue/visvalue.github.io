@@ -9,7 +9,7 @@ This site contains links to the research papers describing the methodology, supp
 
 To conduct an evaluation of a visualization using our ICE-T methodology, we provide the following material.
 
-First, the evaluators will need one or more visualizations to evaluate. Ideally, these visualization exhibit a reasonable amount of complexity and interactivity (i.e., not a simple, static visual chart).
+First, you will need one or more visualizations to evaluate. Ideally, these visualization exhibit a reasonable amount of complexity and interactivity (i.e., not a simple, static visual chart).
 
 Next, recruit participants to conduct the study. Each participant should be given a description of the visualization so that they are knowledgeable about how the visualization works, and what data is being shown. How many participants are needed depends on the particular experimental design.
 
