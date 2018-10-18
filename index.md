@@ -17,14 +17,10 @@ Each participant should fill out the [ICE-T survey form](documents/survey.pdf) f
 
 Once each participant has completed the survey, the scores from the heuristics can be analyzed, and the _value_ of the visualization determined.
 
-
-
-
-
-<!-- ### Research Papers
+### Research Papers
 
   1. John Stasko, *Value-driven evaluation of visualizations* Proceedings of the Fifth Workshop on Beyond Time and Errors: Novel Evaluation Methods for Visualization, ACM, 2014.
-  2. Emily Wall, Meeshu Agnihotri, Laura Matzen, Kristin Divis, Michael Haass, Alex Endert, and John Stasko. *A Heuristic Approach to Value-Driven Evaluation of Visualizations*, Proceedings of the Transactions
+  2. Emily Wall, Meeshu Agnihotri, Laura Matzen, Kristin Divis, Michael Haass, Alex Endert, and John Stasko. *A Heuristic Approach to Value-Driven Evaluation of Visualizations*, IEEE Transactions on Visualization and Computer Graphics (Proc. InfoVis'18), 2018.
 
 ### Team Members
 
@@ -38,4 +34,6 @@ Once each participant has completed the survey, the scores from the heuristics c
 
 ### Project Funding and Support
 
-This work was partially supported by the Laboratory Directed Research and Development program at Sandia National Laboratories. Sandia is a multi-mission laboratory managed and operated by National Technology \& Engineering Solutions of Sandia, LLC, a wholly owned subsidiary of Honeywell International Inc., for the U.S. Department of Energy’s National Nuclear Security Administration under contract DE-NA0003525. -->
+This work was partially supported by the Laboratory Directed Research and Development program at Sandia National Laboratories. Sandia is a multi-mission laboratory managed and operated by National Technology \& Engineering Solutions of Sandia, LLC, a wholly owned subsidiary of Honeywell International Inc., for the U.S. Department of Energy’s National Nuclear Security Administration under contract DE-NA0003525.
+
+![Georgia Tech Visualization Lab](/images/gtvislab.png)
