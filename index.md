@@ -39,6 +39,7 @@ This work was partially supported by the Laboratory Directed Research and Develo
 <a href="http://vis.gatech.edu/">
   <img src="/images/gtvislab.png" alt="GT Vis Lab" style="width:250px;"/>
 </a>
+
 <a href="https://www.sandia.gov/">
   <img src="/images/sandia.png" alt="Sandia" style="width:250px;"/>
   </a>
