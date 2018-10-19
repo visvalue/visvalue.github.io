@@ -19,10 +19,10 @@ Once each participant has completed the survey, the scores from the heuristics c
 
 ### Research Papers
 
-  1. John Stasko, *Value-driven evaluation of visualizations* Proceedings of the Fifth Workshop on Beyond Time and Errors: Novel Evaluation Methods for Visualization, ACM, 2014.
-  2. Emily Wall, Meeshu Agnihotri, Laura Matzen, Kristin Divis, Michael Haass, Alex Endert, and John Stasko. *A Heuristic Approach to Value-Driven Evaluation of Visualizations*, IEEE Transactions on Visualization and Computer Graphics (Proc. InfoVis'18), 2018.
+  1. John Stasko, "*Value-Driven Evaluation of Visualizations*", Proceedings of BELIV 2014, Paris, France, November 2014, pp. 46-53. [<a href="http://www.cc.gatech.edu/~john.stasko/papers/beliv14-value.pdf">PDF</a>]
+  2. Emily Wall, Meeshu Agnihotri, Laura Matzen, Kristin Divis, Michael Haass, Alex Endert, and John Stasko, *"A Heuristic Approach to Value-Driven Evaluation of Visualizations"*, IEEE Transactions on Visualization and Computer Graphics, (Paper presented at InfoVis '18) Vol. 25, No. 1, January 2018, pp. ??-??. [<a href="http://www.cc.gatech.edu/~john.stasko/papers/infovis18-icet.pdf">PDF</a>]
 
-### Team Members
+## Team Members
 
   - John Stasko, Georgia Tech
   - Emily Wall, Georgia Tech
@@ -32,7 +32,7 @@ Once each participant has completed the survey, the scores from the heuristics c
   - Kristin Divis, Sandia National Laboratories
   - Michael Haass, Sandia National Laboratories
 
-### Project Funding and Support
+## Project Funding and Support
 
 This work was partially supported by the Laboratory Directed Research and Development program at Sandia National Laboratories. Sandia is a multi-mission laboratory managed and operated by National Technology \& Engineering Solutions of Sandia, LLC, a wholly owned subsidiary of Honeywell International Inc., for the U.S. Department of Energy’s National Nuclear Security Administration under contract DE-NA0003525.
 
