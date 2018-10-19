@@ -34,7 +34,7 @@ Once each participant has completed the survey, the scores from the heuristics c
 
 ## Project Funding and Support
 
-This work was partially supported by the Laboratory Directed Research and Development program at Sandia National Laboratories. Sandia is a multi-mission laboratory managed and operated by National Technology \& Engineering Solutions of Sandia, LLC, a wholly owned subsidiary of Honeywell International Inc., for the U.S. Department of Energy’s National Nuclear Security Administration under contract DE-NA0003525.
+This work was partially supported by the Laboratory Directed Research and Development program at Sandia National Laboratories. Sandia is a multi-mission laboratory managed and operated by National Technology & Engineering Solutions of Sandia, LLC, a wholly owned subsidiary of Honeywell International Inc., for the U.S. Department of Energy’s National Nuclear Security Administration under contract DE-NA0003525.
 
 <a href="http://vis.gatech.edu/">
   <img src="/images/gtvislab.png" alt="GT Vis Lab" style="width:250px;"/>
