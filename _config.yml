@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
 
 title: [Value-Driven Visualization Evaluation]
-description: [The ICE-T Methodology for Measuring the Value of a Visualization]
+description: [The ICE-T Methodology for Measuring the Value of a Visualization<br><a href="http://vis.gatech.edu/">
+  <img src="/images/gtvislab.png" alt="GT Vis Lab" style="width:250px;"/>
+</a>]
