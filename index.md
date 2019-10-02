@@ -20,7 +20,7 @@ Once each participant has completed the survey, the scores from the heuristics c
 ### Research Papers
 
   1. John Stasko, "**Value-Driven Evaluation of Visualizations**", Proceedings of BELIV 2014, Paris, France, November 2014, pp. 46-53. [<a href="http://www.cc.gatech.edu/~john.stasko/papers/beliv14-value.pdf">PDF</a>]
-  2. Emily Wall, Meeshu Agnihotri, Laura Matzen, Kristin Divis, Michael Haass, Alex Endert, and John Stasko, "**A Heuristic Approach to Value-Driven Evaluation of Visualizations**", IEEE Transactions on Visualization and Computer Graphics, (Paper presented at InfoVis '18) Vol. 25, No. 1, January 2018, pp. ??-??. [<a href="https://www.cc.gatech.edu/~ewall9/media/papers/ValueVIS2018.pdf">PDF</a>]
+  2. Emily Wall, Meeshu Agnihotri, Laura Matzen, Kristin Divis, Michael Haass, Alex Endert, and John Stasko, "**A Heuristic Approach to Value-Driven Evaluation of Visualizations**", IEEE Transactions on Visualization and Computer Graphics, (Paper presented at InfoVis '18) Vol. 25, No. 1, January 2018, pp. 491-500. [<a href="https://www.cc.gatech.edu/~ewall9/media/papers/ValueVIS2018.pdf">PDF</a>]
 
 ## Team Members
 
